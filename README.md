@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank1211)
 
-Hello, I'm a recent graduate from the University of Roehampton and currently working as a junior software engineer at NHS England. With over 4 years of work experience, my passion lies in full-stack development, cloud automation, and contributing to open-source projects. I love learning and always look for ways to make a positive impact.
+Hello, I'm a recent graduate from the University of Roehampton and currently working as a software engineer at NHS England. With over 4+ years of work experience, my passion lies in full-stack development, cloud automation with devOps approach, and contributing to open-source projects. I love learning and always look for ways to make a positive impact.
 
 ## 👨🏼‍💻 Current Company
 [NHS England](https://digital.nhs.uk/)
