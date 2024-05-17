@@ -1,47 +1,83 @@
-# 💫 About Me:
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank1211)
+<h1 align="center">Hi 👋, I'm Mayank Patel</h1>
+<h3 align="center">A passionate full-stack engineer from United Kingdom</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
 
-Hello, I'm a recent graduate from the University of Roehampton and currently working as a software engineer at NHS England. With over 4+ years of work experience, my passion lies in full-stack development, cloud automation with devOps approach, and contributing to open-source projects. I love learning and always look for ways to make a positive impact.
+<p align="center"> 
+  <a href="https://linkedin.com/in/mayank1211">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-## 👨🏼‍💻 Current Company
-[NHS England](https://digital.nhs.uk/)
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <!-- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> -->
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-### 🔭 Team
+<br>
 
-Common Components
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <!-- <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-#### 🌐️ Current Projects
-+ [NHSUK Site Search](https://www.nhs.uk/search)
-+ [NHSUK Front-end Library](https://github.com/nhsuk/nhsuk-frontend)
-+ [NHSUK Service Manual](https://github.com/nhsuk/nhsuk-service-manual)
-+ [NHSUK User Feedback Form](https://github.com/nhsuk/user-feedback-form)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-### 🧑🏼‍🔧 Previous Projects
-+ [NHS.UK](https://nhs.uk) (Infrastructure - Kubernetes)
-+ [NHSUK Service Profile Viewer](https://www.nhs.uk/nhs-services)
-+ [NHSUK Service Profile Manager](https://www.nhs.uk/our-policies/profile-editor-login)
-+ [NHSUK Frontend Library](https://github.com/nhsuk/nhsuk-frontend)
+- 🔭 I’m currently working on **[NHS England](https://digital.nhs.uk/)**
 
-## Stack
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 🌱 I’m currently learning **Cloud Engineering & AI**
 
-## 🚀 GitHub Activity
+- 📫 How to reach me **mayank.patel1211.mp@gmail.com**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1211&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=mayank1211&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
 
-![](https://github-contributor-stats.vercel.app/api?username=mayank1211&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,nodejs,py,flask,fastapi,express,dotnet" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,rider,vscode,postman,linux,bash" />
+  </a>
+</p>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="">Mayank Patel</a></p>
